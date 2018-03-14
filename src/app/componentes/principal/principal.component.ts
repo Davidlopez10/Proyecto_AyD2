@@ -36,7 +36,7 @@ export class PrincipalComponent implements OnInit {
     });
     
     
-    /*  PRUEBA solo para no estar iniciado secion a cada rato */
+    /*  PRUEBA solo para no estar iniciado secion a cada rato 
     this.usuarioService.usuarioIniciado = {
       "apellidos": "Rosales",
       "clave": "123",
